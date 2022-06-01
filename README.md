@@ -4,7 +4,7 @@ Project description goes here as well as the goal trying to achieve.
 
 ## How does it work ?
 
-Describe how the projects works
+Describe how the projects works.
 
 ## Getting started !
 
